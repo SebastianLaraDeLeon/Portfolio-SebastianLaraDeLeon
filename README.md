@@ -43,10 +43,9 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 <a href="https://www.credly.com/badges/dc6c91e4-2aac-47ac-be7c-a17560c8b625">
   <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/62bcd059-443a-483b-be71-e5ba36350495">
+  <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-1769AA?style=for-the-badge" alt="Blue Team Level 1 (BTL1)" />
+</a>
 </div>
 
 ## Projects
