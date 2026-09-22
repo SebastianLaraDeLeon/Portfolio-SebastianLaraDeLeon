@@ -1,7 +1,7 @@
 # Hello, I'm Sebastian Osnel Lara De Leon
 <a href="https://www.linkedin.com/in/sebastianlaradeleon"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT graduate, Security+ and BTL1 certified, building hands-on SOC skills through detection labs and DFIR investigations using Splunk, Sysmon, and Windows event logs.
+Blue team-focused IT graduate, Security+ and BTL1 certified, with hands-on experience in Splunk, Sysmon, Windows event logs, and alert triage.
 
 
 ## Objective
