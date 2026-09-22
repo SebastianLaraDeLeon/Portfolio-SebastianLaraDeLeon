@@ -48,4 +48,3 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
