@@ -37,7 +37,6 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/dc6c91e4-2aac-47ac-be7c-a17560c8b625">
   <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
