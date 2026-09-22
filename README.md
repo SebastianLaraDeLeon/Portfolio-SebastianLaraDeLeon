@@ -5,9 +5,9 @@ IT graduate, Security+ and BTL1 certified, building hands-on SOC skills through 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log analysis, alert triage, and threat detection.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
