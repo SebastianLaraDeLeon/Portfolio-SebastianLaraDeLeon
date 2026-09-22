@@ -22,7 +22,6 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
