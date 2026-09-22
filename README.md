@@ -1,9 +1,8 @@
 # Hello, I'm Sebastian Osnel Lara De Leon
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/sebastianlaradeleon/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+IT graduate, Security+ and BTL1 certified, building hands-on SOC skills through detection labs and DFIR investigations using Splunk, Sysmon, and Windows event logs.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
