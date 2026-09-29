@@ -10,7 +10,6 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
