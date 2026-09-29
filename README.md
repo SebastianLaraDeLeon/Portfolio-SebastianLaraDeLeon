@@ -15,7 +15,7 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Alert Triage and Investigation Reporting                 | <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/tree/main/Investigations" SOC Investigation Reports</a>|
+| Alert Triage and Investigation Reporting                 | <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/tree/main/Investigations">SOC Investigation Reports</a>|
 
 ## Tools
 
