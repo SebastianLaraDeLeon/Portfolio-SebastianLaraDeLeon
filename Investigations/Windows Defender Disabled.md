@@ -48,7 +48,7 @@
 
 **Investigation**
 
-At 2026-09-19 12:47:00 UTC, an external IP 85.215.216.60 (Geolocated to Germany) successfully accessed the KCD-Web host using the Administrator account. Within two minutes, a new administrator-level account (Admin0) was created, Microsoft Defender detected boot.exe as a malicious remote access program before real-time protection was disabled by the attacker, this program was later executed and System32.exe was configured to run automatically whenever a user logs in. The execution of boot.exe gave the attacker remote access capability to the compromised machine. System32.exe has not been executed based on the available telemetry 
+At 2026-09-19 12:47:00 UTC, an external IP 85.215.216.60 (Geolocated to Germany) successfully accessed the KCD-Web host using the Administrator account. Within two minutes, a new administrator-level account (Admin0) was created, Microsoft Defender detected boot.exe as a malicious remote access program before real-time protection was disabled at 12:48:25 UTC, this program was later executed and System32.exe was configured to run automatically whenever a user logs in. The execution of boot.exe gave the user remote access capability to the compromised machine. System32.exe has not been executed based on the available telemetry 
 
 Who KCD-Web host, administrator user and 85.215.216.60 IP (Geolocated to Germany) 
 
