@@ -1,4 +1,4 @@
-** Findings**
+**Findings**
 
 1) Time: 2026-09-19 4:00:59PM GMT and 2026-09-21 6:02:22PM GMT  
 Host: KCD-Web  
