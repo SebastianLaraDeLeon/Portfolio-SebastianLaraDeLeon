@@ -1,17 +1,17 @@
 **Findings**
 
 1) Time: 2026-09-19 4:00:59PM GMT and 2026-09-21 6:02:22PM GMT  
-Host: KCD-Web  
-Event Code: 3 (Network Connection)  
-Src_ip: 1.14.203.76 IP geolocated to China 
-Destination Port: 3389 (RDP)  
+- Host: KCD-Web  
+- Event Code: 3 (Network Connection)  
+- Src_ip: 1.14.203.76 IP geolocated to China 
+- Destination Port: 3389 (RDP)  
 
 2) Time: 2026-09-19 4:01:30PM GMT and 2026-09-21 6:02:29PM GMT  
-Host: KCD-Web  
-User: administrator  
-Src_ip: 1.14.203.76 IP geolocated to China 
-Event Code: 4624 (Successful login) 
-Logon Type: 3  
+- Host: KCD-Web  
+- User: administrator  
+- Src_ip: 1.14.203.76 
+- Event Code: 4624 (Successful login) 
+- Logon Type: 3  
 
 
 **Investigation**
