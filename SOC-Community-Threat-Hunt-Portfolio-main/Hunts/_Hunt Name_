@@ -1,8 +1,0 @@
-TEMPLATE
-
-Technique: (MITRE ATT&CK ID & name)
-Summary:
-Detection Strategy: (log sources, suspicious indicators)
-KQL: (queries used)
-Triage & Investigation:
-Mitigation & Remediation:
