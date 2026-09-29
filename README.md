@@ -43,4 +43,4 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 </div>
 
 ## Projects
-- Detection Lab
+<a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/tree/main/Detection%20%20Lab"> - Detection Lab</a>
