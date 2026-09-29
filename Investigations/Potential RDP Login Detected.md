@@ -34,7 +34,7 @@ Network connection happened on KCD-Web by 1.14.203.76 IP geolocated to China at 
 
 **Recommendations**  
 
--Confirm whether the administrator login from 1.14.203.76 was authorized. If unauthorized, escalate for containment and reset/revoke the administrator credentials according to incident-response procedures. 
+- Confirm whether the administrator login from 1.14.203.76 was authorized. If unauthorized, escalate for containment and reset/revoke the administrator credentials according to incident-response procedures. 
 
  
 
