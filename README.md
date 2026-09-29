@@ -44,3 +44,5 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 
 ## Projects
 - <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/tree/main/Detection%20%20Lab"> Detection Lab</a>
+- <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/blob/main/Investigations/Windows%20Defender%20Disabled.md"> Windows Defender Disabled Investigation</a>
+- <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/blob/main/Investigations/Potential%20RDP%20Login%20Detected.md"> Potential RDP Login Investigation</a>
