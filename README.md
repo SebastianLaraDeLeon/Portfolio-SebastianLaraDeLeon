@@ -46,6 +46,6 @@ Seeking a Tier 1 SOC Analyst role focused on SIEM monitoring, Windows event log 
 - <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/tree/main/Detection%20%20Lab"> Detection Lab</a>
 Built a Windows/Active Directory lab with Splunk, Sysmon, and Windows Security logs to practice security monitoring, event correlation, and alert investigation.
 - <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/blob/main/Investigations/Windows%20Defender%20Disabled.md"> Windows Defender Disabled Investigation</a>
-Correlated external connections to port 3389 with successful administrator network logons. Documented the findings, authorization uncertainty, and recommendations for access validation and escalation.
-- <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/blob/main/Investigations/Potential%20RDP%20Login%20Detected.md"> Potential RDP Login Investigation</a>
 Reconstructed a timeline involving privileged account creation, Defender protection being disabled, malware execution, and scheduled-task persistence. Documented evidence, investigation limitations, and containment and remediation recommendations.
+- <a href="https://github.com/SebastianLaraDeLeon/Portfolio-SebastianLaraDeLeon/blob/main/Investigations/Potential%20RDP%20Login%20Detected.md"> Potential RDP Login Investigation</a>
+Correlated external connections to port 3389 with successful administrator network logons. Documented the findings, authorization uncertainty, and recommendations for access validation and escalation.
