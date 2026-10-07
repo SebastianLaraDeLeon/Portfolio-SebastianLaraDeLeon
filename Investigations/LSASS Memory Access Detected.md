@@ -1,12 +1,12 @@
 Findings
 
-Affected host: KCD-Web (172.16.1.7); account used: administrator.
-Inbound RDP connection (Sysmon EID 3) from malicious IP 195.210.107.2 (United States) was followed by a successful network authentication (4624).
-Network Discovery: Created and Executed Advanced IP Scanner.
-Defense Evasion: Real-time protection was disabled. Exclusions were added for the Administrator Desktop folder, the lsass.exe and kvc.exe processes, the .dmp extension, and the kvc.exe file path.
-Credential-dumping tools related with kvc.exe and KvcForensic.exe were created on the host.
-Credential access: kvc.exe executed kvc dump lsass and accessed lsass.exe; KvcForensic.exe was executed afterward. Dump creation was not confirmed.
-Investigation Summary
+-Affected host: KCD-Web (172.16.1.7); account used: administrator.
+-Inbound RDP connection (Sysmon EID 3) from malicious IP 195.210.107.2 (United States) was followed by a successful network authentication (4624).
+-Network Discovery: Created and Executed Advanced IP Scanner.
+-Defense Evasion: Real-time protection was disabled. Exclusions were added for the Administrator Desktop folder, the lsass.exe and kvc.exe processes, the .dmp extension, and the kvc.exe file path.
+-Credential-dumping tools related with kvc.exe and KvcForensic.exe were created on the host.
+-Credential access: kvc.exe executed kvc dump lsass and accessed lsass.exe; KvcForensic.exe was executed afterward. Dump creation was not confirmed.
+-Investigation Summary
 
 On 29 September 2026, an external malicious connection from IP 195.210.107.2 to KCD-Web’s RDP service was followed by successful network authentication with the administrator user. Over the next several minutes, Advanced IP Scanner executed, Microsoft Defender real-time protection was disabled, and exclusions were added. Files associated with the KVC toolset were created on the host. A credential-dumping command then executed through kvc.exe, which accessed LSASS, the Windows security process that handles credentials. KvcForensic.exe, a tool used to extract credentials from memory dumps, launched shortly afterward.
 
